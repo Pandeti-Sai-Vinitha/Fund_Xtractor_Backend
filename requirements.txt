@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Werkzeug
+python-dotenv
+requests
+numpy
+pandas
+PyMuPDF
+PyPDF2
+sentence-transformers
+scikit-learn
+textwrap3

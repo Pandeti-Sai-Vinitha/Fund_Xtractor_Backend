@@ -1,0 +1,117 @@
+S.no,Regulation,Particulars,Where we get Information in DRHP,Heading,Sub- Heading,What AI search for in DRHP,Remarks,Company_Name,Processed_At,Processed_By,Source_Pdf_Filename,Answer
+1,BSE Eligibility Criteria,Post Issue Paid up Capital - Not more than Rs. 25 crores,"Under the head ' Capital Structure' If there is a blob in capital structure, promt for manual check ",SECTION_IV INTRODUCTION,CAPITAL STRUCTURE,Whether the aggregate nominal value under paid up equity capital after the offer is not more than Rs. 25 crores.,,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"Based on the provided excerpts, it is unclear whether the company meets the listing criteria that the aggregate nominal value of paid-up equity capital after the offer is not more than Rs. 25 crores.
+
+The excerpts contain the following information:
+
+*   **Authorized Share Capital:** Includes equity shares with a face value of ₹1 each, totaling 6,351,448,589.
+
+*   **Issued, Subscribed, and Paid-Up Share Capital (Before the Offer):** 410,347,780 equity shares of face value of ₹1 each.
+
+*   **Present Offer:** Includes a fresh issue of up to \[●] equity shares of face value of ₹1 each aggregating up to ₹ 4,000.00 million.
+
+*   **Issued, Subscribed, and Paid-Up Share Capital After the Offer:** \[●] equity shares of face value of ₹1 each.
+
+*   **Equity Share capital (D):** 30.18 million
+
+The key piece of information missing is the exact number of equity shares outstanding *after* the offer (""\[●] equity shares of face value of ₹1 each""). Without this number, it's impossible to calculate the aggregate nominal value of the paid-up equity capital after the offer and determine if it is less than Rs. 25 crores.
+
+Therefore, based on the available information, it's impossible to definitively say whether the company meets this listing criterion. Manual check required to fill in the [●] with the exact number."
+2,BSE Eligibility Criteria,Networth - Atleast Rs. 1 crore for 2 preceding full financial years.,Under the head Summary of Offer Document or Summary of Draft Prospectus,SECTION_II Summary of Offer Document or Summary of Draft Prospectus,Summary of Financial Information or Summary of Restated Financial Information ,"(1) Compare the requirement of net-worth in the Summary of Financial information with the minimum eligibility criteria.
+
+(2) Ignore Standalone figures if both Consolidated and Standalone financials provided.",This can Also be Cross Verified From the figures disclosed in the Chapter Other Regulatory and Statutory Disclosures - 'Criteria for eligibility on SME platform of BSE Limited'.,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"Based on the provided excerpts, the company appears to meet the net worth eligibility criteria for listing.
+
+The document presents the ""Reconciliation for Net Worth"" on a consolidated basis for the fiscal years 2023, 2024, and 2025. The net worth figures are:
+
+*   **Fiscal 2023:** ₹5,694.06 million
+*   **Fiscal 2024:** ₹7,141.78 million
+*   **Fiscal 2025:** ₹9,173.48 million
+
+Since ₹5,694.06 million and ₹7,141.78 million are both significantly greater than the required ₹10 million (Rs. 1 crore), the company satisfies the requirement of having a net worth of at least Rs. 1 crore for the two preceding full financial years."
+3,BSE Eligibility Criteria,Net Tangible Asset - Rs 3 crores in last preceding (full) financial year.,Under the head Other Regulatory and Statutory Disclosures - 'Criteria for eligibility on SME platform of BSE Limited'.,SECTION_VIII - Other Regulatory and Statutiry Disclosures,Criteria eligibility on SME platform of BSE Limited,Whether the amount for Net Tangible Asset disclosed in last preceding full financial year is Rs. 3 crores or more ,This can Also be Cross Verified From the figures disclosed in the Chapter Other Regulatory and Statutory Disclosures - 'Criteria for eligibility on SME platform of BSE Limited'.,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"The company meets the listing eligibility criteria of having Net Tangible Assets of Rs. 3 crores or more in the last preceding full financial year.
+
+The ""Restated Consolidated Financial Information"" section provides the following data (in ₹ million):
+
+*   March 31, 2024: Net Tangible Assets of 6,609.26
+*   March 31, 2023: Net Tangible Assets of 5,154.20
+
+Since ₹1 crore equals ₹10 million, the requirement is ₹30 million. Both fiscal years 2024 and 2023 show Net Tangible Assets exceeding ₹30 million. Therefore, the company satisfies the Net Tangible Asset criterion. This is confirmed in the section ""OTHER REGULATORY AND STATUTORY DISCLOSURES"", which lists Net Tangible Assets of ₹6,609.26 million and ₹5,154.20 million for the years ended March 31, 2024 and March 31, 2023, respectively."
+4,BSE Eligibility Criteria,"Track Record -The track record of applicant company seeking listing should be atleast 3 years. Where the applicant company has taken over a proprietorship concern/ firm/ LLP, then the track record together with such proprietorship concern/ registered firm/ LLP should be atleast 3 years. registered partnership Provided, the applicant company seeking listing should have a track record of operations for atleast one full financial year and audited financial results for one full financial  year.Or Where the applicant company does not have a track record of 3 years, then the Project for which IPO is being proposed should be appraised and funded by NABARD, SIDBI, Banks (other than co-operative banks), Financial Institutions.Provided, the applicant company seeking listing should have a track record of operations for atleast one full financial year and audited financial results for one full financial year.",Cover page and Chapter - History and certain corporate matters ,Section VI - History and certain corporate matters,Brief history of our Company,"For 3 years track record:
+
+Check on the cover page and Chapter - History and certain corporate matters for the date of incorporation of the company and whether the company has completed 3 years of existence as on the date of the draft offer document and in case of conversion of of LLP to company or conversion of partnership to company 
+",This can Also be Cross Verified From the figures disclosed in the Chapter Other Regulatory and Statutory Disclosures - 'Criteria for eligibility on SME platform of BSE Limited' - Track Record.,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"Based on the provided excerpts, the company appears to meet the 3-year track record requirement for listing eligibility.
+
+The excerpts indicate the following:
+
+*   The company was initially incorporated as LEAP India Private Limited on **July 3, 2013**.
+*   It was converted into a public limited company and renamed LEAP India Limited on **July 31, 2025**.
+
+Since the company was incorporated in 2013, it has more than 3 years of existence as of August 2025 (the date of the Draft Red Herring Prospectus). The company has also completed more than one full financial year of operations."
+5,BSE Eligibility Criteria,"Earnings before Interest, Depreciation and tax -The company/ proprietorship concern/ registered firm/ LLP should have operating profit (earnings before interest, depreciation and tax) from operations for 2 out of 3 latest financial years preceding the application date.Provided the company should have operating profit (earnings before interest, depreciation and tax) from operations for one full financial year preceding the application date.For companies seeking listing where the project has been appraised and funded by NABARD, SIDBI, Banks (other than co-operative banks), Financial Institutions, it shall have positive operating profit (earnings before interest, depreciation and tax) from operations in one full preceding financial year.",Under the head Other Regulatory and Statutory Disclosures - 'Criteria for eligibility on SME platform of BSE Limited'.,SECTION_VIII - Other Regulatory and Statutory Disclosures,Criteria eligibility on SME platform of BSE Limited,"Whether the amount for Earnings before interest, Depreciation and tax disclosed in last preceding full financial year is Rs. 3 crores or more ",This can Also be Cross Verified From the figures disclosed in the Chapter Other Regulatory and Statutory Disclosures - 'Criteria for eligibility on SME platform of BSE Limited'.,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"The question is whether the company's Earnings Before Interest, Depreciation, and Tax (EBITDA) in the last preceding full financial year is Rs. 3 crores or more.
+
+The excerpts provide the following information regarding profit before tax, depreciation, amortisation and impairment expenses, and finance costs:
+
+*   **Fiscal 2025:** Profit before tax was ₹520.57 million, depreciation, amortisation and impairment expenses were ₹1,537.29 million, and finance cost was ₹680.11 million.
+*   **Fiscal 2024:** Profit before tax was ₹467.07 million, depreciation, amortisation and impairment expenses were ₹1,126.09 million, and finance cost was ₹506.02 million.
+*   **Fiscal 2023:** Profit before tax was ₹98.22 million, depreciation, amortisation and impairment expenses were ₹740.28 million, and finance cost was ₹424.42 million.
+
+EBITDA can be calculated by adding Profit Before Tax + Depreciation, Amortisation and Impairment Expenses + Finance Cost.
+
+*   **Fiscal 2025 EBITDA:** ₹520.57 + ₹1,537.29 + ₹680.11 = ₹2,737.97 million
+*   **Fiscal 2024 EBITDA:** ₹467.07 + ₹1,126.09 + ₹506.02 = ₹2,099.18 million
+*   **Fiscal 2023 EBITDA:** ₹98.22 + ₹740.28 + ₹424.42 = ₹1,262.92 million
+
+The question specifies that we need to consider the amount for the last preceding full financial year, which is Fiscal 2025. The calculated EBITDA for Fiscal 2025 is ₹2,737.97 million. Converting this to crores: ₹2,737.97 million / 10 = ₹273.80 crores (approximately).
+
+The eligibility criteria require EBITDA to be Rs. 3 crores or more in the last preceding full financial year. Since ₹273.80 crores is greater than Rs. 3 crores, the company meets the listing eligibility criteria for EBITDA.
+
+Additionally, excerpts also provide Operating Profit figures for the preceding financial years calculated as profit before finance costs, other income and tax expense:
+
+*   **Fiscal 2025 Operating Profit:** ₹1,015.09 million
+*   **Fiscal 2024 Operating Profit:** ₹903.36 million
+*   **Fiscal 2023 Operating Profit:** ₹474.66 million
+
+These figures are also well above the Rs 3 crores limit."
+6,BSE Eligibility Criteria,Leverage Ratio - Leverage ratio of not more than 3:1. Relaxation may be granted to finance companies.,Under the head Other Regulatory and Statutory Disclosures - 'Criteria for eligibility on SME platform of BSE Limited'.,SECTION_VIII - Other Regulatory and Statutory Disclosures,Criteria eligibility on SME platform of BSE Limited,Whether the ratio for Leverage Ratio is not more than 3:1,,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"Based on the provided excerpts, it's possible to determine whether the company meets the leverage ratio criterion for listing eligibility.
+
+The excerpts provide the following information, which is relevant to calculating the leverage ratio for the company as of March 31, 2025:
+
+*   **Total Borrowings:** ₹ 8,016.58 million (Current borrowings + Non-current borrowings)
+*   **Total Equity:** ₹ 9,173.48 million
+
+The leverage ratio is Debt / Equity, which, in this case, equals 8,016.58 / 9,173.48 = 0.87
+
+The listing criteria state that the leverage ratio should not be more than 3:1.
+
+Since the calculated leverage ratio of 0.87 is less than 3, the company meets this listing criterion."
+7,BSE Eligibility Criteria,Disciplinary action -No regulatory action of suspension of trading against the promoter(s) or companies promoted by the promoters by any stock Exchange having nationwide trading terminals.The Promoter(s) or directors shall not be promoter(s) or directors (other than independent directors) of compulsory delisted companies by the Exchange and the applicability of consequences of compulsory delisting is attracted or companies that are suspended from trading on account of non-compliance.Director should not be disqualified/ debarred by any of the Regulatory Authority.,Under the head Other Regulatory and Statutory Disclosures - 'Criteria for eligibility on SME platform of BSE Limited'.,SECTION_VIII - Other Regulatory and Statutory Disclosures,Criteria eligibility on SME platform of BSE Limited,"There are no regulatory action of suspension of trading against the promoter(s) or companies promoted by the promoters by any stock Exchange having nationwide trading terminals. 
+
+The Promoter(s) or directors shall not be promoter(s) or director(s) (other than independent directors) of compulsory delisted companies by the Exchange and the applicability of consequences of compulsory delisting is attracted or companies that are suspended from trading on account of non-compliance.
+
+Director should not be disqualified/ debarred by any of the Regulatory Authority.",This data is available on the watchout investor/ Cibil site also the list of debarred entities are available on the SEBI /BSE/ NSE websites also,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"Based on the provided excerpts, the company appears to meet the listing eligibility criteria related to disciplinary actions and disqualifications.
+
+*   **No suspension of trading:** The document states that ""Our Directors are not directors or promoters of any other company which has been debarred from accessing the capital markets under any order or direction passed by SEBI or any securities market regulator in any other jurisdiction or any other authority/court."" It further states that ""Our Promoters are not a promoter of any other company which has been debarred from accessing the capital markets under any order or direction passed by SEBI or any securities market regulator in any other jurisdiction or any other authority/court.""
+
+*   **No association with compulsory delisted companies:** The document states ""None of our Directors is or was a director of any listed company which has been or was delisted from any stock exchange during the term of their directorship in such company""
+
+*   **No director disqualification:** The document states ""None of our Directors have been declared as Wilful Defaulters nor as Fraudulent Borrowers by any bank or financial institution or consortium thereof in accordance with the guidelines on wilful defaulters or a fraudulent borrower issued by the RBI."" It also states ""Neither Sunu Mathew, who is our Individual Promoter, nor any of our Directors have been declared as fugitive economic offenders under section 12 of the Fugitive Economic Offenders Act, 2018."""
+8,228(a) of SEBI ICDR,"If the issuer, any of its promoters, promoter group or directors or selling shareholders are debarred from accessing the capital market by the Board.",Under the head Other Regulatory and Statutory Disclosures - 'Criteria for eligibility on SME platform of BSE Limited'.,SECTION_VIII  -Other Regulatory and Statutory Disclosures,Eligbility for the issue,"The issuer, any of its promoters, promoter group or directors or selling shareholders are debarred from accessing the capital market by the Board",This data is available on the watchout investor site/ CIBIL also the list of debarred entities are available on the SEBI /BSE/ NSE websites also ,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"Based on the provided excerpts, the company appears to meet the listing criteria regarding debarment from accessing the capital market.
+
+The document explicitly states under the section ""Other Regulatory and Statutory Disclosures"" that:
+
+*   ""Our Company, Sunu Mathew, being our Individual Promoter, Directors, members of our Promoter Group (including the Promoter Group Selling Shareholder) and person(s) in control of our Company are not prohibited from accessing the capital markets or debarred from buying, selling or dealing in securities under any order or direction passed by SEBI or any securities market regulator in any other jurisdiction or any other authority/court.""
+*   ""Each of the Selling Shareholders (including our Corporate Promoter) and persons in control of our Corporate Promoter are not prohibited from accessing the capital markets or debarred from buying, selling or dealing in securities under any order or direction passed by SEBI or any other securities market regulator or any other authority/court or tribunal inside and outside India.""
+*   ""Our Directors are not directors or promoters of any other company which has been debarred from accessing the capital markets under any order or direction passed by SEBI or any securities market regulator in any other jurisdiction or any other authority/court.""
+*   ""Our Promoters are not a promoter of any other company which has been debarred from accessing the capital markets under any order or direction passed by SEBI or any securities market regulator in any other jurisdiction or any other authority/court.""
+
+These statements directly address the listing eligibility criteria and indicate that none of the relevant parties are debarred from accessing the capital market."
+9,228(b) of SEBI ICDR,If any of the promoters or directors of the issuer is a promoter or director of any other    company which is debarred from accessing the capital market by the Board.,Under the head legal  and other information  -other regulatory and statutory disclosure.,SECTION_VIII  -Other Regulatory and Statutory Disclosures,Eligbility for the issue,The promoters or directors of the issuer not a promoter or director of any other company which is debarred from accessing the capital market by the Board,This data is available on the watchout investor site/ CIBIL also the list of debarred entities are available on the SEBI /BSE/ NSE websites also ,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"Based on the provided excerpts, the company appears to meet the listing criteria regarding promoters and directors not being debarred from accessing the capital market.
+
+The document explicitly states: ""Our Directors are not directors or promoters of any other company which has been debarred from accessing the capital markets under any order or direction passed by SEBI or any securities market regulator in any other jurisdiction or any other authority/court."" It further states, ""Our Promoters are not a promoter of any other company which has been debarred from accessing the capital markets under any order or direction passed by SEBI or any securities market regulator in any other jurisdiction or any other authority/court.""
+
+Therefore, based on these explicit statements, the company meets this particular listing criterion."
+10,228 (c) of SEBI ICDR,if the issuer or any of its promoters or directors is a  wilful defaulter or a fraudulent borrower.,Under the head legal  and other information  -other regulatory and statutory disclosure.,SECTION_VIII  -Other Regulatory and Statutory Disclosures,Eligbility for the issue,The issuer or any of its promoters or directors is a wilful defaulter or a fradulent borrower,This data is available on the watchout investor site/ CIBIL also the list of debarred entities are available on the SEBI /BSE/ NSE websites also ,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,[API Error 429]
+11,228(d) of SEBI ICDR,if any of its promoters or directors is a fugitive economic offender.,Under the head legal  and other information  -other regulatory and statutory disclosure.,SECTION_VIII  -Other Regulatory and Statutory Disclosures,Eligbility for the issue,Promoters or directors is not a fugitive economic offende.,This data is available on the watchout investor site/ CIBIL also the list of debarred entities are available on the SEBI /BSE/ NSE websites also ,LEAP INDIA LIMITED,2025-11-05T18:14:55.094482+05:30,John,sample_dhrp.pdf,"The company appears to meet the listing criteria related to fugitive economic offenders.
+
+The document explicitly states, ""Neither Sunu Mathew, who is our Individual Promoter, nor any of our Directors have been declared as fugitive economic offenders under section 12 of the Fugitive Economic Offenders Act, 2018."" This statement directly addresses the question of whether any promoters or directors are fugitive economic offenders.
+
+Additionally, the document includes a confirmation that ""Neither Sunu Mathew, our Individual Promoter, nor our Directors have been declared as a Fugitive Economic Offender""."

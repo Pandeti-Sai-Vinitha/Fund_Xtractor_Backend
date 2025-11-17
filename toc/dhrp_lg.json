@@ -1,0 +1,270 @@
+{
+  "SECTION I: GENERAL": {
+    "start_page": 0,
+    "end_page": 1,
+    "pdf_start_page": 4,
+    "pdf_end_page": 5,
+    "subsections": {
+      "DEFINITIONS AND ABBREVIATIONS": {
+        "start_page": 1,
+        "end_page": 13,
+        "pdf_start_page": 5,
+        "pdf_end_page": 17
+      },
+      "SUMMARY OF THE OFFER DOCUMENT": {
+        "start_page": 14,
+        "end_page": 22,
+        "pdf_start_page": 18,
+        "pdf_end_page": 26
+      },
+      "CERTAIN CONVENTIONS, PRESENTATION OF FINANCIAL, INDUSTRY AND MARKET DATA": {
+        "start_page": 23,
+        "end_page": 28,
+        "pdf_start_page": 27,
+        "pdf_end_page": 32
+      },
+      "FORWARD-LOOKING STATEMENTS": {
+        "start_page": 29,
+        "end_page": 30,
+        "pdf_start_page": 33,
+        "pdf_end_page": 34
+      }
+    }
+  },
+  "SECTION II: RISK FACTORS": {
+    "start_page": 31,
+    "end_page": 80,
+    "pdf_start_page": 35,
+    "pdf_end_page": 84,
+    "subsections": {}
+  },
+  "SECTION III: INTRODUCTION": {
+    "start_page": 80,
+    "end_page": 81,
+    "pdf_start_page": 84,
+    "pdf_end_page": 85,
+    "subsections": {
+      "THE OFFER": {
+        "start_page": 81,
+        "end_page": 82,
+        "pdf_start_page": 85,
+        "pdf_end_page": 86
+      },
+      "SUMMARY OF FINANCIAL INFORMATION": {
+        "start_page": 83,
+        "end_page": 87,
+        "pdf_start_page": 87,
+        "pdf_end_page": 91
+      },
+      "GENERAL INFORMATION": {
+        "start_page": 88,
+        "end_page": 96,
+        "pdf_start_page": 92,
+        "pdf_end_page": 100
+      },
+      "CAPITAL STRUCTURE": {
+        "start_page": 97,
+        "end_page": 106,
+        "pdf_start_page": 101,
+        "pdf_end_page": 110
+      },
+      "OBJECTS OF THE OFFER": {
+        "start_page": 107,
+        "end_page": 109,
+        "pdf_start_page": 111,
+        "pdf_end_page": 113
+      },
+      "BASIS FOR OFFER PRICE": {
+        "start_page": 110,
+        "end_page": 118,
+        "pdf_start_page": 114,
+        "pdf_end_page": 122
+      },
+      "STATEMENT ON SPECIAL TAX BENEFITS": {
+        "start_page": 119,
+        "end_page": 126,
+        "pdf_start_page": 123,
+        "pdf_end_page": 130
+      }
+    }
+  },
+  "SECTION IV: ABOUT OUR COMPANY": {
+    "start_page": 126,
+    "end_page": 127,
+    "pdf_start_page": 130,
+    "pdf_end_page": 131,
+    "subsections": {
+      "INDUSTRY OVERVIEW": {
+        "start_page": 127,
+        "end_page": 162,
+        "pdf_start_page": 131,
+        "pdf_end_page": 166
+      },
+      "OUR BUSINESS": {
+        "start_page": 163,
+        "end_page": 190,
+        "pdf_start_page": 167,
+        "pdf_end_page": 194
+      },
+      "KEY REGULATIONS AND POLICIES": {
+        "start_page": 191,
+        "end_page": 198,
+        "pdf_start_page": 195,
+        "pdf_end_page": 202
+      },
+      "HISTORY AND CERTAIN CORPORATE MATTERS": {
+        "start_page": 199,
+        "end_page": 206,
+        "pdf_start_page": 203,
+        "pdf_end_page": 210
+      },
+      "OUR MANAGEMENT": {
+        "start_page": 207,
+        "end_page": 224,
+        "pdf_start_page": 211,
+        "pdf_end_page": 228
+      },
+      "PROMOTER AND PROMOTER GROUP": {
+        "start_page": 225,
+        "end_page": 230,
+        "pdf_start_page": 229,
+        "pdf_end_page": 234
+      },
+      "DIVIDEND POLICY": {
+        "start_page": 231,
+        "end_page": 231,
+        "pdf_start_page": 235,
+        "pdf_end_page": 235
+      }
+    }
+  },
+  "SECTION V: FINANCIAL INFORMATION": {
+    "start_page": 231,
+    "end_page": 232,
+    "pdf_start_page": 235,
+    "pdf_end_page": 236,
+    "subsections": {
+      "RESTATED FINANCIAL INFORMATION": {
+        "start_page": 232,
+        "end_page": 313,
+        "pdf_start_page": 236,
+        "pdf_end_page": 317
+      },
+      "OTHER FINANCIAL INFORMATION": {
+        "start_page": 314,
+        "end_page": 314,
+        "pdf_start_page": 318,
+        "pdf_end_page": 318
+      },
+      "OPERATIONS": {
+        "start_page": 315,
+        "end_page": 344,
+        "pdf_start_page": 319,
+        "pdf_end_page": 348
+      },
+      "CAPITALISATION STATEMENT": {
+        "start_page": 345,
+        "end_page": 345,
+        "pdf_start_page": 349,
+        "pdf_end_page": 349
+      },
+      "FINANCIAL INDEBTEDNESS": {
+        "start_page": 346,
+        "end_page": 347,
+        "pdf_start_page": 350,
+        "pdf_end_page": 351
+      }
+    }
+  },
+  "SECTION VI: LEGAL AND OTHER INFORMATION": {
+    "start_page": 347,
+    "end_page": 348,
+    "pdf_start_page": 351,
+    "pdf_end_page": 352,
+    "subsections": {
+      "OUTSTANDING LITIGATION AND MATERIAL DEVELOPMENTS": {
+        "start_page": 348,
+        "end_page": 359,
+        "pdf_start_page": 352,
+        "pdf_end_page": 363
+      },
+      "GOVERNMENT AND OTHER APPROVALS": {
+        "start_page": 360,
+        "end_page": 362,
+        "pdf_start_page": 364,
+        "pdf_end_page": 366
+      },
+      "GROUP COMPANIES": {
+        "start_page": 363,
+        "end_page": 365,
+        "pdf_start_page": 367,
+        "pdf_end_page": 369
+      },
+      "OTHER REGULATORY AND STATUTORY DISCLOSURES": {
+        "start_page": 366,
+        "end_page": 386,
+        "pdf_start_page": 370,
+        "pdf_end_page": 390
+      }
+    }
+  },
+  "SECTION VII: OFFER INFORMATION": {
+    "start_page": 386,
+    "end_page": 387,
+    "pdf_start_page": 390,
+    "pdf_end_page": 391,
+    "subsections": {
+      "TERMS OF THE OFFER": {
+        "start_page": 387,
+        "end_page": 393,
+        "pdf_start_page": 391,
+        "pdf_end_page": 397
+      },
+      "OFFER STRUCTURE": {
+        "start_page": 394,
+        "end_page": 397,
+        "pdf_start_page": 398,
+        "pdf_end_page": 401
+      },
+      "OFFER PROCEDURE": {
+        "start_page": 398,
+        "end_page": 417,
+        "pdf_start_page": 402,
+        "pdf_end_page": 421
+      },
+      "RESTRICTIONS ON FOREIGN OWNERSHIP OF INDIAN SECURITIES": {
+        "start_page": 418,
+        "end_page": 419,
+        "pdf_start_page": 422,
+        "pdf_end_page": 423
+      }
+    }
+  },
+  "SECTION VIII: MAIN PROVISIONS OF ARTICLES OF ASSOCIATION": {
+    "start_page": 420,
+    "end_page": 440,
+    "pdf_start_page": 424,
+    "pdf_end_page": 444,
+    "subsections": {}
+  },
+  "SECTION IX: OTHER INFORMATION": {
+    "start_page": 440,
+    "end_page": 441,
+    "pdf_start_page": 444,
+    "pdf_end_page": 445,
+    "subsections": {
+      "MATERIAL CONTRACTS AND DOCUMENTS FOR INSPECTION": {
+        "start_page": 441,
+        "end_page": 443,
+        "pdf_start_page": 445,
+        "pdf_end_page": 447
+      },
+      "DECLARATION": {
+        "start_page": 444,
+        "end_page": 444,
+        "pdf_start_page": 448,
+        "pdf_end_page": 448
+      }
+    }
+  }
+}

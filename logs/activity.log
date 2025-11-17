@@ -1,0 +1,115 @@
+2025-11-17 15:29:30 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:29:30 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:29:34 — INFO — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-17 15:29:34 — INFO — [33mPress CTRL+C to quit[0m
+2025-11-17 15:29:34 — INFO —  * Restarting with stat
+2025-11-17 15:29:43 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:29:43 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:29:48 — WARNING —  * Debugger is active!
+2025-11-17 15:29:48 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:30:28 — ERROR — \u274c Error loading DHRP entries: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2025-11-17 15:30:28 — INFO — 127.0.0.1 - - [17/Nov/2025 15:30:28] "[35m[1mGET /get_all_dhrps HTTP/1.1[0m" 500 -
+2025-11-17 15:30:32 — ERROR — \u274c Error loading DHRP entries: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2025-11-17 15:30:32 — INFO — 127.0.0.1 - - [17/Nov/2025 15:30:32] "[35m[1mGET /get_all_dhrps HTTP/1.1[0m" 500 -
+2025-11-17 15:32:30 — INFO —  * Detected change in 'C:\\Users\\2000166070\\Downloads\\dhrp2 (1)\\dhrp2\\config.py', reloading
+2025-11-17 15:32:31 — INFO —  * Restarting with stat
+2025-11-17 15:32:47 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:32:47 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:32:52 — WARNING —  * Debugger is active!
+2025-11-17 15:32:52 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:32:52 — ERROR — \u274c Error loading DHRP entries: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2025-11-17 15:32:52 — INFO — 127.0.0.1 - - [17/Nov/2025 15:32:52] "[35m[1mGET /get_all_dhrps HTTP/1.1[0m" 500 -
+2025-11-17 15:36:13 — INFO —  * Detected change in 'C:\\Users\\2000166070\\Downloads\\dhrp2 (1)\\dhrp2\\extensions.py', reloading
+2025-11-17 15:36:14 — INFO —  * Restarting with stat
+2025-11-17 15:36:29 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:36:29 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:36:34 — WARNING —  * Debugger is active!
+2025-11-17 15:36:34 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:38:20 — INFO —  * Detected change in 'C:\\Users\\2000166070\\Downloads\\dhrp2 (1)\\dhrp2\\extensions.py', reloading
+2025-11-17 15:38:21 — INFO —  * Restarting with stat
+2025-11-17 15:38:34 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:38:34 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:38:38 — WARNING —  * Debugger is active!
+2025-11-17 15:38:38 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:39:06 — INFO —  * Detected change in 'C:\\Users\\2000166070\\Downloads\\dhrp2 (1)\\dhrp2\\app1.py', reloading
+2025-11-17 15:39:07 — INFO —  * Restarting with stat
+2025-11-17 15:39:23 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:39:23 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:40:22 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:40:22 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:40:27 — INFO — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-17 15:40:27 — INFO — [33mPress CTRL+C to quit[0m
+2025-11-17 15:40:27 — INFO —  * Restarting with stat
+2025-11-17 15:40:38 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:40:38 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:40:43 — WARNING —  * Debugger is active!
+2025-11-17 15:40:43 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:40:43 — ERROR — \u274c Error loading DHRP entries: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2025-11-17 15:40:43 — INFO — 127.0.0.1 - - [17/Nov/2025 15:40:43] "[35m[1mGET /get_all_dhrps HTTP/1.1[0m" 500 -
+2025-11-17 15:42:00 — INFO —  * Detected change in 'C:\\Users\\2000166070\\Downloads\\dhrp2 (1)\\dhrp2\\app1.py', reloading
+2025-11-17 15:42:01 — INFO —  * Restarting with stat
+2025-11-17 15:42:16 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:42:16 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:42:21 — WARNING —  * Debugger is active!
+2025-11-17 15:42:21 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:42:55 — ERROR — \u274c Error loading DHRP entries: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2025-11-17 15:42:55 — INFO — 127.0.0.1 - - [17/Nov/2025 15:42:55] "[35m[1mGET /get_all_dhrps HTTP/1.1[0m" 500 -
+2025-11-17 15:43:14 — INFO —  * Detected change in 'C:\\Users\\2000166070\\Downloads\\dhrp2 (1)\\dhrp2\\app1.py', reloading
+2025-11-17 15:43:15 — INFO —  * Restarting with stat
+2025-11-17 15:43:26 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:43:26 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:43:30 — WARNING —  * Debugger is active!
+2025-11-17 15:43:30 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:44:05 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:44:05 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:44:09 — INFO — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-17 15:44:09 — INFO — [33mPress CTRL+C to quit[0m
+2025-11-17 15:44:09 — INFO —  * Restarting with stat
+2025-11-17 15:44:19 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:44:19 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:44:23 — WARNING —  * Debugger is active!
+2025-11-17 15:44:23 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:44:23 — ERROR — \u274c Error loading DHRP entries: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2025-11-17 15:44:23 — INFO — 127.0.0.1 - - [17/Nov/2025 15:44:23] "[35m[1mGET /get_all_dhrps HTTP/1.1[0m" 500 -
+2025-11-17 15:49:15 — INFO —  * Detected change in 'C:\\Users\\2000166070\\Downloads\\dhrp2 (1)\\dhrp2\\models\\dhrp_entry.py', reloading
+2025-11-17 15:49:16 — INFO —  * Restarting with stat
+2025-11-17 15:49:33 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:49:33 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:49:39 — WARNING —  * Debugger is active!
+2025-11-17 15:49:39 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:49:39 — INFO — \U0001f4e5 DHRP entries retrieved — 3 entries
+2025-11-17 15:49:39 — INFO — 127.0.0.1 - - [17/Nov/2025 15:49:39] "GET /get_all_dhrps HTTP/1.1" 200 -
+2025-11-17 15:49:39 — INFO — \U0001f4e5 DHRP entries retrieved — 3 entries
+2025-11-17 15:49:39 — INFO — 127.0.0.1 - - [17/Nov/2025 15:49:39] "GET /get_all_dhrps HTTP/1.1" 200 -
+2025-11-17 15:49:47 — INFO — \U0001f4e5 DHRP entries retrieved — 3 entries
+2025-11-17 15:49:47 — INFO — 127.0.0.1 - - [17/Nov/2025 15:49:47] "GET /get_all_dhrps HTTP/1.1" 200 -
+2025-11-17 15:50:01 — INFO — \U0001f4e5 DHRP entries retrieved — 3 entries
+2025-11-17 15:50:01 — INFO — 127.0.0.1 - - [17/Nov/2025 15:50:01] "GET /get_all_dhrps HTTP/1.1" 200 -
+2025-11-17 15:50:05 — INFO — \U0001f4e5 DHRP entries retrieved — 3 entries
+2025-11-17 15:50:05 — INFO — 127.0.0.1 - - [17/Nov/2025 15:50:05] "GET /get_all_dhrps HTTP/1.1" 200 -
+2025-11-17 15:51:58 — INFO —  * Detected change in 'C:\\Users\\2000166070\\Downloads\\dhrp2 (1)\\dhrp2\\app1.py', reloading
+2025-11-17 15:51:59 — INFO —  * Restarting with stat
+2025-11-17 15:52:12 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:52:12 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:53:24 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:53:24 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:53:28 — INFO — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-17 15:53:28 — INFO — [33mPress CTRL+C to quit[0m
+2025-11-17 15:53:28 — INFO —  * Restarting with stat
+2025-11-17 15:53:38 — INFO — Use pytorch device_name: cpu
+2025-11-17 15:53:38 — INFO — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-17 15:53:43 — WARNING —  * Debugger is active!
+2025-11-17 15:53:43 — INFO —  * Debugger PIN: 265-239-365
+2025-11-17 15:54:17 — INFO — \U0001f4e5 DHRP entries retrieved — 3 entries
+2025-11-17 15:54:17 — INFO — 127.0.0.1 - - [17/Nov/2025 15:54:17] "GET /get_all_dhrps HTTP/1.1" 200 -
+2025-11-17 15:54:21 — INFO — 127.0.0.1 - - [17/Nov/2025 15:54:21] "[33mGET /get_toc/pro_spdrdowjonesindustrialaverageetf.pdf HTTP/1.1[0m" 404 -
+2025-11-17 15:54:27 — INFO — \U0001f4c4 CSV viewed: pro_spdrdowjonesindustrialaverageetf_analysis.csv — Rows: 29
+2025-11-17 15:54:27 — INFO — 127.0.0.1 - - [17/Nov/2025 15:54:27] "GET /view_csv/pro_spdrdowjonesindustrialaverageetf_analysis.csv HTTP/1.1" 200 -
+2025-11-17 15:54:29 — INFO — \U0001f4e5 DHRP entries retrieved — 3 entries
+2025-11-17 15:54:29 — INFO — 127.0.0.1 - - [17/Nov/2025 15:54:29] "GET /get_all_dhrps HTTP/1.1" 200 -
+2025-11-17 15:54:43 — INFO — \U0001f4e5 DHRP entries retrieved — 3 entries
+2025-11-17 15:54:43 — INFO — 127.0.0.1 - - [17/Nov/2025 15:54:43] "GET /get_all_dhrps HTTP/1.1" 200 -

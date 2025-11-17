@@ -1,0 +1,66 @@
+{
+  "summary_bullets": {
+    "Internal": {
+      "Operational": [
+        {
+          "Risk": "*Passive Strategy/Index Risk*. The Trust is not actively managed and tracks an unmanaged index (DJIA). This means the Trust will hold constituent securities regardless of market conditions.",
+          "Severity": "Moderate. The Trust's return could be lower than an actively managed fund.",
+          "Impact": "Lower investment returns for investors.",
+          "Mitigation": "None, as the trust is intentionally passively managed.",
+          "Gaps": "Investors might expect active management benefits and may not understand the limitations."
+        },
+        {
+          "Risk": "*Bid/Ask Spreads and Trading Costs.* Frequent trading of units, including bid/ask spreads, may significantly reduce investment results.",
+          "Severity": "Low to Moderate. Impact depends on the frequency of trading.",
+          "Impact": "Diminished investment returns for frequent traders.",
+          "Mitigation": "Disclosure of bid/ask spread information on www.spdrs.com.",
+          "Gaps": "Investors may not fully understand the impact of frequent trading, even with disclosure."
+        },
+        {
+          "Risk": "*Trustee and Distributor Errors*. Errors in order placement, acceptance, or prospectus delivery by the Distributor or Trustee.",
+          "Severity": "Low.",
+          "Impact": "Potential delays or errors in unit creation/redemption. Reputational risk.",
+          "Mitigation": "Distributor maintains records and provides confirmations of acceptance.",
+          "Gaps": "No explicit mention of error resolution processes or liability coverage for such errors beyond standard legal disclaimers."
+        }
+      ],
+      "Financial": [
+        {
+          "Risk": "*Distributions exceeding yield*. To maintain RIC status, the trust may need to distribute more than its yield, potentially selling securities.",
+          "Severity": "Moderate.",
+          "Impact": "Erosion of capital to meet distribution requirements. Could impact future returns.",
+          "Mitigation": "Adherence to RIC requirements.",
+          "Gaps": "No strategy outlined for managing such sales to minimize negative impacts."
+        }
+      ]
+    },
+    "External": {
+      "Financial": [
+        {
+          "Risk": "*Market Deterioration.* The financial condition of issuers of Portfolio Securities may become impaired or the general condition of the stock market may deteriorate, either of which may cause a decrease in the value of the Portfolio and thus in the value of Units.",
+          "Severity": "High.",
+          "Impact": "Loss of investment value.",
+          "Mitigation": "Diversification within the DJIA.",
+          "Gaps": "Limited control as the trust passively tracks the index."
+        },
+        {
+          "Risk": "*Large Cap Risk.* Portfolio Securities generally consist of equity securities of large-capitalization U.S. issuers.",
+          "Severity": "Moderate.",
+          "Impact": "Returns on investments in stocks of large-capitalization U.S. issuers.",
+          "Mitigation": "None.",
+          "Gaps": "N/A"
+        }
+      ],
+      "Regulatory": [
+        {
+          "Risk": "*Failure to comply with US Federal Income and Excise Tax.* If the trust fails to comply, it may be subject to penalties.",
+          "Severity": "High.",
+          "Impact": "Paying tax and/or providing notice of such failure to the U.S. Internal Revenue Service (the \u201cIRS\u201d).",
+          "Mitigation": "Active sales of securities for distribution.",
+          "Gaps": "No clear description of how the trust plans to comply."
+        }
+      ]
+    }
+  },
+  "risk_text": "Okay, here is a structured risk summary based on the provided text chunks, focusing on financial, operational, and regulatory risks, as requested.\n\n**Risk Summary: DHRP Trust Investment**\n\n**Internal Risks:**\n\n- **[Category: Operational]**\n  - Risk: *Passive Strategy/Index Risk*. The Trust is not actively managed and tracks an unmanaged index (DJIA). This means the Trust will hold constituent securities regardless of market conditions.\n    - Severity: Moderate. The Trust's return could be lower than an actively managed fund.\n    - Impact: Lower investment returns for investors.\n    - Mitigation: None, as the trust is intentionally passively managed.\n    - Gaps: Investors might expect active management benefits and may not understand the limitations.\n\n- **[Category: Operational]**\n  - Risk:  *Bid/Ask Spreads and Trading Costs.* Frequent trading of units, including bid/ask spreads, may significantly reduce investment results.\n    - Severity: Low to Moderate. Impact depends on the frequency of trading.\n    - Impact: Diminished investment returns for frequent traders.\n    - Mitigation: Disclosure of bid/ask spread information on www.spdrs.com.\n    - Gaps: Investors may not fully understand the impact of frequent trading, even with disclosure.\n\n- **[Category: Operational]**\n  - Risk:  *Trustee and Distributor Errors*. Errors in order placement, acceptance, or prospectus delivery by the Distributor or Trustee.\n    - Severity: Low.\n    - Impact: Potential delays or errors in unit creation/redemption. Reputational risk.\n    - Mitigation: Distributor maintains records and provides confirmations of acceptance.\n    - Gaps:  No explicit mention of error resolution processes or liability coverage for such errors beyond standard legal disclaimers.\n\n- **[Category: Financial]**\n    - Risk: *Distributions exceeding yield*. To maintain RIC status, the trust may need to distribute more than its yield, potentially selling securities.\n        - Severity: Moderate.\n        - Impact: Erosion of capital to meet distribution requirements. Could impact future returns.\n        - Mitigation: Adherence to RIC requirements.\n        - Gaps: No strategy outlined for managing such sales to minimize negative impacts.\n\n**External Risks:**\n\n- **[Category: Financial]**\n  - Risk:  *Market Deterioration.* The financial condition of issuers of Portfolio Securities may become impaired or the general condition of the stock market may deteriorate, either of which may cause a decrease in the value of the Portfolio and thus in the value of Units.\n    - Severity: High.\n    - Impact: Loss of investment value.\n    - Mitigation: Diversification within the DJIA.\n    - Gaps: Limited control as the trust passively tracks the index.\n\n- **[Category: Regulatory]**\n  - Risk: *Failure to comply with US Federal Income and Excise Tax.* If the trust fails to comply, it may be subject to penalties.\n    - Severity: High.\n    - Impact: Paying tax and/or providing notice of such failure to the U.S. Internal Revenue Service (the \u201cIRS\u201d).\n    - Mitigation: Active sales of securities for distribution.\n    - Gaps: No clear description of how the trust plans to comply.\n\n- **[Category: Financial]**\n  - Risk: *Large Cap Risk.* Portfolio Securities generally consist of equity securities of large-capitalization U.S. issuers.\n    - Severity: Moderate.\n    - Impact: Returns on investments in stocks of large-capitalization U.S. issuers.\n    - Mitigation: None.\n    - Gaps: N/A\n\n**Remarks:**\n\n*   The reliance on a passive strategy inherently carries the risk of underperformance compared to actively managed funds, especially in rapidly changing market conditions. This is a significant strategic risk.\n*   The risk summary highlights the need for investors to be aware of the potential impact of trading costs, especially for those considering frequent small investments.\n*   The Distributor plays a vital role in unit creation and redemption, and any operational disruptions could affect Authorized Participants and the overall efficiency of the fund.\n* The disclaimer from S&P regarding the DJIA is extensive. Although the Trust does not have control over the index, it must factor in reputational risk if the DJIA has errors."
+}

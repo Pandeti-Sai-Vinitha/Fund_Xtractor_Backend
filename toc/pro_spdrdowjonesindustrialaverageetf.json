@@ -1,0 +1,845 @@
+{
+  "hierarchy": {
+    "Summary": {
+      "start_page": "1",
+      "end_page": "1",
+      "pdf_start_page": 3,
+      "pdf_end_page": 3,
+      "subsections": {
+        "Summary": {
+          "start_page": "1",
+          "end_page": "1",
+          "pdf_start_page": 3,
+          "pdf_end_page": 3
+        }
+      }
+    },
+    "Investment Objective": {
+      "start_page": "1",
+      "end_page": "1",
+      "pdf_start_page": 3,
+      "pdf_end_page": 3,
+      "subsections": {
+        "Investment Objective": {
+          "start_page": "1",
+          "end_page": "1",
+          "pdf_start_page": 3,
+          "pdf_end_page": 3
+        }
+      }
+    },
+    "Fees and Expenses of the Trust": {
+      "start_page": "1",
+      "end_page": "1",
+      "pdf_start_page": 3,
+      "pdf_end_page": 3,
+      "subsections": {
+        "Fees and Expenses of the Trust": {
+          "start_page": "1",
+          "end_page": "1",
+          "pdf_start_page": 3,
+          "pdf_end_page": 3
+        }
+      }
+    },
+    "The Trust's Investments and Portfolio  Turnover": {
+      "start_page": "2",
+      "end_page": "2",
+      "pdf_start_page": 4,
+      "pdf_end_page": 4,
+      "subsections": {
+        "The Trust's Investments and Portfolio  Turnover": {
+          "start_page": "2",
+          "end_page": "2",
+          "pdf_start_page": 4,
+          "pdf_end_page": 4
+        }
+      }
+    },
+    "Dividends": {
+      "start_page": "2",
+      "end_page": "2",
+      "pdf_start_page": 4,
+      "pdf_end_page": 4,
+      "subsections": {
+        "Dividends": {
+          "start_page": "2",
+          "end_page": "2",
+          "pdf_start_page": 4,
+          "pdf_end_page": 4
+        }
+      }
+    },
+    "Redemption of Units": {
+      "start_page": "3",
+      "end_page": "3",
+      "pdf_start_page": 5,
+      "pdf_end_page": 5,
+      "subsections": {
+        "Redemption of Units": {
+          "start_page": "3",
+          "end_page": "3",
+          "pdf_start_page": 5,
+          "pdf_end_page": 5
+        }
+      }
+    },
+    "Voting Rights; Book-Entry-Only  System": {
+      "start_page": "3",
+      "end_page": "3",
+      "pdf_start_page": 5,
+      "pdf_end_page": 5,
+      "subsections": {
+        "Voting Rights; Book-Entry-Only  System": {
+          "start_page": "3",
+          "end_page": "3",
+          "pdf_start_page": 5,
+          "pdf_end_page": 5
+        }
+      }
+    },
+    "Amendments to the Trust  Agreement": {
+      "start_page": "3",
+      "end_page": "3",
+      "pdf_start_page": 5,
+      "pdf_end_page": 5,
+      "subsections": {
+        "Amendments to the Trust  Agreement": {
+          "start_page": "3",
+          "end_page": "3",
+          "pdf_start_page": 5,
+          "pdf_end_page": 5
+        }
+      }
+    },
+    "Principal Risks of Investing in the  Trust": {
+      "start_page": "3",
+      "end_page": "4",
+      "pdf_start_page": 5,
+      "pdf_end_page": 6,
+      "subsections": {
+        "Principal Risks of Investing in the  Trust": {
+          "start_page": "3",
+          "end_page": "4",
+          "pdf_start_page": 5,
+          "pdf_end_page": 6
+        }
+      }
+    },
+    "Trust Performance": {
+      "start_page": "5",
+      "end_page": "6",
+      "pdf_start_page": 7,
+      "pdf_end_page": 8,
+      "subsections": {
+        "Trust Performance": {
+          "start_page": "5",
+          "end_page": "6",
+          "pdf_start_page": 7,
+          "pdf_end_page": 8
+        }
+      }
+    },
+    "Purchase and Sale Information": {
+      "start_page": "7",
+      "end_page": "7",
+      "pdf_start_page": 9,
+      "pdf_end_page": 9,
+      "subsections": {
+        "Purchase and Sale Information": {
+          "start_page": "7",
+          "end_page": "7",
+          "pdf_start_page": 9,
+          "pdf_end_page": 9
+        }
+      }
+    },
+    "Tax Information": {
+      "start_page": "7",
+      "end_page": "7",
+      "pdf_start_page": 9,
+      "pdf_end_page": 9,
+      "subsections": {
+        "Tax Information": {
+          "start_page": "7",
+          "end_page": "7",
+          "pdf_start_page": 9,
+          "pdf_end_page": 9
+        }
+      }
+    },
+    "The DJIA": {
+      "start_page": "7",
+      "end_page": "11",
+      "pdf_start_page": 9,
+      "pdf_end_page": 13,
+      "subsections": {
+        "The DJIA": {
+          "start_page": "7",
+          "end_page": "11",
+          "pdf_start_page": 9,
+          "pdf_end_page": 13
+        }
+      }
+    },
+    "Dividends and Distributions": {
+      "start_page": "12",
+      "end_page": "12",
+      "pdf_start_page": 14,
+      "pdf_end_page": 14,
+      "subsections": {
+        "Dividends and Distributions": {
+          "start_page": "12",
+          "end_page": "12",
+          "pdf_start_page": 14,
+          "pdf_end_page": 14
+        }
+      }
+    },
+    "Dividends and Capital Gains": {
+      "start_page": "12",
+      "end_page": "12",
+      "pdf_start_page": 14,
+      "pdf_end_page": 14,
+      "subsections": {
+        "Dividends and Capital Gains": {
+          "start_page": "12",
+          "end_page": "12",
+          "pdf_start_page": 14,
+          "pdf_end_page": 14
+        }
+      }
+    },
+    "No Dividend Reinvestment Service": {
+      "start_page": "12",
+      "end_page": "12",
+      "pdf_start_page": 14,
+      "pdf_end_page": 14,
+      "subsections": {
+        "No Dividend Reinvestment Service": {
+          "start_page": "12",
+          "end_page": "12",
+          "pdf_start_page": 14,
+          "pdf_end_page": 14
+        }
+      }
+    },
+    "Federal Income Taxes": {
+      "start_page": "13",
+      "end_page": "13",
+      "pdf_start_page": 15,
+      "pdf_end_page": 15,
+      "subsections": {
+        "Federal Income Taxes": {
+          "start_page": "13",
+          "end_page": "13",
+          "pdf_start_page": 15,
+          "pdf_end_page": 15
+        }
+      }
+    },
+    "Taxation of the Trust": {
+      "start_page": "14",
+      "end_page": "15",
+      "pdf_start_page": 16,
+      "pdf_end_page": 17,
+      "subsections": {
+        "Taxation of the Trust": {
+          "start_page": "14",
+          "end_page": "15",
+          "pdf_start_page": 16,
+          "pdf_end_page": 17
+        }
+      }
+    },
+    "Tax Consequences to U.S. Holders": {
+      "start_page": "16",
+      "end_page": "17",
+      "pdf_start_page": 18,
+      "pdf_end_page": 19,
+      "subsections": {
+        "Tax Consequences to U.S. Holders": {
+          "start_page": "16",
+          "end_page": "17",
+          "pdf_start_page": 18,
+          "pdf_end_page": 19
+        }
+      }
+    },
+    "Tax Consequences to Non-U.S.  Holders": {
+      "start_page": "19",
+      "end_page": "21",
+      "pdf_start_page": 21,
+      "pdf_end_page": 23,
+      "subsections": {
+        "Tax Consequences to Non-U.S.  Holders": {
+          "start_page": "19",
+          "end_page": "21",
+          "pdf_start_page": 21,
+          "pdf_end_page": 23
+        }
+      }
+    },
+    "Report of Independent Registered  Public Accounting Firm": {
+      "start_page": "22",
+      "end_page": "22",
+      "pdf_start_page": 24,
+      "pdf_end_page": 24,
+      "subsections": {
+        "Report of Independent Registered  Public Accounting Firm": {
+          "start_page": "22",
+          "end_page": "22",
+          "pdf_start_page": 24,
+          "pdf_end_page": 24
+        }
+      }
+    },
+    "Statement of Assets and Liabilities  October 31, 2024": {
+      "start_page": "23",
+      "end_page": "23",
+      "pdf_start_page": 25,
+      "pdf_end_page": 25,
+      "subsections": {
+        "Statement of Assets and Liabilities  October 31, 2024": {
+          "start_page": "23",
+          "end_page": "23",
+          "pdf_start_page": 25,
+          "pdf_end_page": 25
+        }
+      }
+    },
+    "Statements of Operations": {
+      "start_page": "24",
+      "end_page": "24",
+      "pdf_start_page": 26,
+      "pdf_end_page": 26,
+      "subsections": {
+        "Statements of Operations": {
+          "start_page": "24",
+          "end_page": "24",
+          "pdf_start_page": 26,
+          "pdf_end_page": 26
+        }
+      }
+    },
+    "Statements of Changes in Net  Assets": {
+      "start_page": "25",
+      "end_page": "25",
+      "pdf_start_page": 27,
+      "pdf_end_page": 27,
+      "subsections": {
+        "Statements of Changes in Net  Assets": {
+          "start_page": "25",
+          "end_page": "25",
+          "pdf_start_page": 27,
+          "pdf_end_page": 27
+        }
+      }
+    },
+    "Financial Highlights Selected data for a  Unit outstanding throughout each  period": {
+      "start_page": "26",
+      "end_page": "26",
+      "pdf_start_page": 28,
+      "pdf_end_page": 28,
+      "subsections": {
+        "Financial Highlights Selected data for a  Unit outstanding throughout each  period": {
+          "start_page": "26",
+          "end_page": "26",
+          "pdf_start_page": 28,
+          "pdf_end_page": 28
+        }
+      }
+    },
+    "Notes to Financial Statements": {
+      "start_page": "27",
+      "end_page": "36",
+      "pdf_start_page": 29,
+      "pdf_end_page": 38,
+      "subsections": {
+        "Notes to Financial Statements": {
+          "start_page": "27",
+          "end_page": "36",
+          "pdf_start_page": 29,
+          "pdf_end_page": 38
+        }
+      }
+    },
+    "Schedule of Investments October 31,  2024": {
+      "start_page": "37",
+      "end_page": "38",
+      "pdf_start_page": 39,
+      "pdf_end_page": 40,
+      "subsections": {
+        "Schedule of Investments October 31,  2024": {
+          "start_page": "37",
+          "end_page": "38",
+          "pdf_start_page": 39,
+          "pdf_end_page": 40
+        }
+      }
+    },
+    "Other Information October 31, 2024  (Unaudited)": {
+      "start_page": "39",
+      "end_page": "40",
+      "pdf_start_page": 41,
+      "pdf_end_page": 42,
+      "subsections": {
+        "Other Information October 31, 2024  (Unaudited)": {
+          "start_page": "39",
+          "end_page": "40",
+          "pdf_start_page": 41,
+          "pdf_end_page": 42
+        }
+      }
+    },
+    "Organization of the Trust": {
+      "start_page": "41",
+      "end_page": "41",
+      "pdf_start_page": 43,
+      "pdf_end_page": 43,
+      "subsections": {
+        "Organization of the Trust": {
+          "start_page": "41",
+          "end_page": "41",
+          "pdf_start_page": 43,
+          "pdf_end_page": 43
+        }
+      }
+    },
+    "Purchases and Redemptions of  Creation Units": {
+      "start_page": "41",
+      "end_page": "41",
+      "pdf_start_page": 43,
+      "pdf_end_page": 43,
+      "subsections": {
+        "Purchases and Redemptions of  Creation Units": {
+          "start_page": "41",
+          "end_page": "41",
+          "pdf_start_page": 43,
+          "pdf_end_page": 43
+        }
+      }
+    },
+    "Purchase (Creation)": {
+      "start_page": "41",
+      "end_page": "45",
+      "pdf_start_page": 43,
+      "pdf_end_page": 47,
+      "subsections": {
+        "Purchase (Creation)": {
+          "start_page": "41",
+          "end_page": "45",
+          "pdf_start_page": 43,
+          "pdf_end_page": 47
+        }
+      }
+    },
+    "Redemption": {
+      "start_page": "46",
+      "end_page": "49",
+      "pdf_start_page": 48,
+      "pdf_end_page": 51,
+      "subsections": {
+        "Redemption": {
+          "start_page": "46",
+          "end_page": "49",
+          "pdf_start_page": 48,
+          "pdf_end_page": 51
+        }
+      }
+    },
+    "Book-Entry-Only System": {
+      "start_page": "50",
+      "end_page": "51",
+      "pdf_start_page": 52,
+      "pdf_end_page": 53,
+      "subsections": {
+        "Book-Entry-Only System": {
+          "start_page": "50",
+          "end_page": "51",
+          "pdf_start_page": 52,
+          "pdf_end_page": 53
+        }
+      }
+    },
+    "Portfolio Adjustments": {
+      "start_page": "52",
+      "end_page": "54",
+      "pdf_start_page": 54,
+      "pdf_end_page": 56,
+      "subsections": {
+        "Portfolio Adjustments": {
+          "start_page": "52",
+          "end_page": "54",
+          "pdf_start_page": 54,
+          "pdf_end_page": 56
+        }
+      }
+    },
+    "Adjustments to the Portfolio Deposit": {
+      "start_page": "55",
+      "end_page": "55",
+      "pdf_start_page": 57,
+      "pdf_end_page": 57,
+      "subsections": {
+        "Adjustments to the Portfolio Deposit": {
+          "start_page": "55",
+          "end_page": "55",
+          "pdf_start_page": 57,
+          "pdf_end_page": 57
+        }
+      }
+    },
+    "Exchange Listing and Trading": {
+      "start_page": "56",
+      "end_page": "56",
+      "pdf_start_page": 58,
+      "pdf_end_page": 58,
+      "subsections": {
+        "Exchange Listing and Trading": {
+          "start_page": "56",
+          "end_page": "56",
+          "pdf_start_page": 58,
+          "pdf_end_page": 58
+        }
+      }
+    },
+    "Secondary Trading on Exchanges": {
+      "start_page": "56",
+      "end_page": "56",
+      "pdf_start_page": 58,
+      "pdf_end_page": 58,
+      "subsections": {
+        "Secondary Trading on Exchanges": {
+          "start_page": "56",
+          "end_page": "56",
+          "pdf_start_page": 58,
+          "pdf_end_page": 58
+        }
+      }
+    },
+    "Trading Prices of Units": {
+      "start_page": "57",
+      "end_page": "57",
+      "pdf_start_page": 59,
+      "pdf_end_page": 59,
+      "subsections": {
+        "Trading Prices of Units": {
+          "start_page": "57",
+          "end_page": "57",
+          "pdf_start_page": 59,
+          "pdf_end_page": 59
+        }
+      }
+    },
+    "Continuous Offering of Units": {
+      "start_page": "58",
+      "end_page": "58",
+      "pdf_start_page": 60,
+      "pdf_end_page": 60,
+      "subsections": {
+        "Continuous Offering of Units": {
+          "start_page": "58",
+          "end_page": "58",
+          "pdf_start_page": 60,
+          "pdf_end_page": 60
+        }
+      }
+    },
+    "Expenses of the Trust": {
+      "start_page": "59",
+      "end_page": "59",
+      "pdf_start_page": 61,
+      "pdf_end_page": 61,
+      "subsections": {
+        "Expenses of the Trust": {
+          "start_page": "59",
+          "end_page": "59",
+          "pdf_start_page": 61,
+          "pdf_end_page": 61
+        }
+      }
+    },
+    "Trustee Fee Scale": {
+      "start_page": "60",
+      "end_page": "60",
+      "pdf_start_page": 62,
+      "pdf_end_page": 62,
+      "subsections": {
+        "Trustee Fee Scale": {
+          "start_page": "60",
+          "end_page": "60",
+          "pdf_start_page": 62,
+          "pdf_end_page": 62
+        }
+      }
+    },
+    "Determination of Net Asset Value": {
+      "start_page": "61",
+      "end_page": "61",
+      "pdf_start_page": 63,
+      "pdf_end_page": 63,
+      "subsections": {
+        "Determination of Net Asset Value": {
+          "start_page": "61",
+          "end_page": "61",
+          "pdf_start_page": 63,
+          "pdf_end_page": 63
+        }
+      }
+    },
+    "Additional Risk Information": {
+      "start_page": "62",
+      "end_page": "63",
+      "pdf_start_page": 64,
+      "pdf_end_page": 65,
+      "subsections": {
+        "Additional Risk Information": {
+          "start_page": "62",
+          "end_page": "63",
+          "pdf_start_page": 64,
+          "pdf_end_page": 65
+        }
+      }
+    },
+    "Additional Information Regarding  Dividends and Distributions": {
+      "start_page": "64",
+      "end_page": "64",
+      "pdf_start_page": 66,
+      "pdf_end_page": 66,
+      "subsections": {
+        "Additional Information Regarding  Dividends and Distributions": {
+          "start_page": "64",
+          "end_page": "64",
+          "pdf_start_page": 66,
+          "pdf_end_page": 66
+        }
+      }
+    },
+    "General Policies": {
+      "start_page": "64",
+      "end_page": "64",
+      "pdf_start_page": 66,
+      "pdf_end_page": 66,
+      "subsections": {
+        "General Policies": {
+          "start_page": "64",
+          "end_page": "64",
+          "pdf_start_page": 66,
+          "pdf_end_page": 66
+        }
+      }
+    },
+    "Investment Restrictions": {
+      "start_page": "66",
+      "end_page": "66",
+      "pdf_start_page": 68,
+      "pdf_end_page": 68,
+      "subsections": {
+        "Investment Restrictions": {
+          "start_page": "66",
+          "end_page": "66",
+          "pdf_start_page": 68,
+          "pdf_end_page": 68
+        }
+      }
+    },
+    "Investments by Investment  Companies": {
+      "start_page": "66",
+      "end_page": "66",
+      "pdf_start_page": 68,
+      "pdf_end_page": 68,
+      "subsections": {
+        "Investments by Investment  Companies": {
+          "start_page": "66",
+          "end_page": "66",
+          "pdf_start_page": 68,
+          "pdf_end_page": 68
+        }
+      }
+    },
+    "Annual Reports": {
+      "start_page": "67",
+      "end_page": "67",
+      "pdf_start_page": 69,
+      "pdf_end_page": 69,
+      "subsections": {
+        "Annual Reports": {
+          "start_page": "67",
+          "end_page": "67",
+          "pdf_start_page": 69,
+          "pdf_end_page": 69
+        }
+      }
+    },
+    "Benefit Plan Investor  Considerations": {
+      "start_page": "67",
+      "end_page": "67",
+      "pdf_start_page": 69,
+      "pdf_end_page": 69,
+      "subsections": {
+        "Benefit Plan Investor  Considerations": {
+          "start_page": "67",
+          "end_page": "67",
+          "pdf_start_page": 69,
+          "pdf_end_page": 69
+        }
+      }
+    },
+    "Index License": {
+      "start_page": "68",
+      "end_page": "69",
+      "pdf_start_page": 70,
+      "pdf_end_page": 71,
+      "subsections": {
+        "Index License": {
+          "start_page": "68",
+          "end_page": "69",
+          "pdf_start_page": 70,
+          "pdf_end_page": 71
+        }
+      }
+    },
+    "Sponsor": {
+      "start_page": "70",
+      "end_page": "76",
+      "pdf_start_page": 72,
+      "pdf_end_page": 78,
+      "subsections": {
+        "Sponsor": {
+          "start_page": "70",
+          "end_page": "76",
+          "pdf_start_page": 72,
+          "pdf_end_page": 78
+        }
+      }
+    },
+    "Trustee": {
+      "start_page": "77",
+      "end_page": "78",
+      "pdf_start_page": 79,
+      "pdf_end_page": 80,
+      "subsections": {
+        "Trustee": {
+          "start_page": "77",
+          "end_page": "78",
+          "pdf_start_page": 79,
+          "pdf_end_page": 80
+        }
+      }
+    },
+    "Depository": {
+      "start_page": "79",
+      "end_page": "79",
+      "pdf_start_page": 81,
+      "pdf_end_page": 81,
+      "subsections": {
+        "Depository": {
+          "start_page": "79",
+          "end_page": "79",
+          "pdf_start_page": 81,
+          "pdf_end_page": 81
+        }
+      }
+    },
+    "Distributor": {
+      "start_page": "79",
+      "end_page": "79",
+      "pdf_start_page": 81,
+      "pdf_end_page": 81,
+      "subsections": {
+        "Distributor": {
+          "start_page": "79",
+          "end_page": "79",
+          "pdf_start_page": 81,
+          "pdf_end_page": 81
+        }
+      }
+    },
+    "Trust Agreement": {
+      "start_page": "79",
+      "end_page": "79",
+      "pdf_start_page": 81,
+      "pdf_end_page": 81,
+      "subsections": {
+        "Trust Agreement": {
+          "start_page": "79",
+          "end_page": "79",
+          "pdf_start_page": 81,
+          "pdf_end_page": 81
+        }
+      }
+    },
+    "Termination of the Trust Agreement": {
+      "start_page": "80",
+      "end_page": "80",
+      "pdf_start_page": 82,
+      "pdf_end_page": 82,
+      "subsections": {
+        "Termination of the Trust Agreement": {
+          "start_page": "80",
+          "end_page": "80",
+          "pdf_start_page": 82,
+          "pdf_end_page": 82
+        }
+      }
+    },
+    "Legal Opinion": {
+      "start_page": "81",
+      "end_page": "81",
+      "pdf_start_page": 83,
+      "pdf_end_page": 83,
+      "subsections": {
+        "Legal Opinion": {
+          "start_page": "81",
+          "end_page": "81",
+          "pdf_start_page": 83,
+          "pdf_end_page": 83
+        }
+      }
+    },
+    "Independent Registered Public  Accounting Firm and Financial  Statements": {
+      "start_page": "81",
+      "end_page": "81",
+      "pdf_start_page": 83,
+      "pdf_end_page": 83,
+      "subsections": {
+        "Independent Registered Public  Accounting Firm and Financial  Statements": {
+          "start_page": "81",
+          "end_page": "81",
+          "pdf_start_page": 83,
+          "pdf_end_page": 83
+        }
+      }
+    },
+    "Code of Ethics": {
+      "start_page": "82",
+      "end_page": "82",
+      "pdf_start_page": 84,
+      "pdf_end_page": 84,
+      "subsections": {
+        "Code of Ethics": {
+          "start_page": "82",
+          "end_page": "82",
+          "pdf_start_page": 84,
+          "pdf_end_page": 84
+        }
+      }
+    },
+    "Information and Comparisons Relating  to Secondary Market Trading and  Performance": {
+      "start_page": "82",
+      "end_page": "82",
+      "pdf_start_page": 84,
+      "pdf_end_page": 84,
+      "subsections": {
+        "Information and Comparisons Relating  to Secondary Market Trading and  Performance": {
+          "start_page": "82",
+          "end_page": "82",
+          "pdf_start_page": 84,
+          "pdf_end_page": 84
+        }
+      }
+    }
+  }
+}
+ 
